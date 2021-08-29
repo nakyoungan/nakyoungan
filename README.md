@@ -2,10 +2,6 @@
 
 I  am nakyoung an who is interested in Computer Science from South Korea. 
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python"/>
