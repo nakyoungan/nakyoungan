@@ -3,12 +3,12 @@
 I  am nakyoung an, interested in Computer Science from South Korea. 
 
 ## Languages and Tools:
-<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python"/>
-<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/>
-<img src="https://img.shields.io/badge/-HTML5-E34FF26?style=flat&logo=HTML5"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/>
-<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript"/>
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python"/></a>
+<img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=Java"/></a>
+<img src="https://img.shields.io/badge/-HTML5-E34FF26?style=flat&logo=HTML5"/></a>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=CSS3"/></a>
+<img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript"/></a>
 
 ## SNS LIST:
 <a href="https://www.instagram.com/dksskrud/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
