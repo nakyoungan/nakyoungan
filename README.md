@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I  am nakyoung an who is interested in Computer Science from South Korea. 
+I  am nakyoung an, interested in Computer Science from South Korea. 
 
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/>
