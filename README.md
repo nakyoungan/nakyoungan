@@ -11,8 +11,8 @@ I  am nakyoung an, interested in Computer Science from South Korea.
 <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=Javascript"/>
 
 ## SNS LIST:
-<a href="[1. https://www.instagram.com/dksskrud/]" target="_blank"><img src="https://img.shields.io/badge/[2. Instagram]-[3. #E4405F]?style=flat-square&logo=[4.Instagram]&logoColor=white"/></a>
-<a href="[1. https://blog.naver.com/anna5638]" target="_blank"><img src="https://img.shields.io/badge/[2. Blog]-[3. ##03C75A]?style=flat-square&logo=[4. Naver]&logoColor=white"/></a>
+<a href="https://www.instagram.com/dksskrud/" target="_blank"><img src="https://img.shields.io/badge/Instagram-#E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://blog.naver.com/anna5638" target="_blank"><img src="https://img.shields.io/badge/Blog-##03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 ## STACK LIST:
 ![trophy](https://github-profile-trophy.vercel.app/?username=nakyoungan)
