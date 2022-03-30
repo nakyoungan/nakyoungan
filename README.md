@@ -1,4 +1,4 @@
-## Hi there 👋
+## anna 👋
 
 I  am nakyoung an, interested in Computer Science from South Korea. 
 
