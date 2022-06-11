@@ -1,6 +1,7 @@
 ## anna
 
 I  am nakyoung an, interested in Computer Science from South Korea. 
+KONKUK UNIV. SICT
 
 ## Languages and Tools:
 <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=C"/></a>
